@@ -1,0 +1,4 @@
+﻿  MatthiasC__CGT215_Lab2.cpp
+C:\Users\cmatthia\source\repos\MatthiasC__CGT215_Lab2\MatthiasC__CGT215_Lab2\MatthiasC__CGT215_Lab2.cpp(26,7): warning C4552: '+': result of expression not used
+C:\Users\cmatthia\source\repos\MatthiasC__CGT215_Lab2\MatthiasC__CGT215_Lab2\MatthiasC__CGT215_Lab2.cpp(14,11): warning C4101: 'X': unreferenced local variable
+  MatthiasC__CGT215_Lab2.vcxproj -> C:\Users\cmatthia\source\repos\MatthiasC__CGT215_Lab2\x64\Debug\MatthiasC__CGT215_Lab2.exe
